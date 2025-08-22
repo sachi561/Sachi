@@ -1,14 +1,14 @@
 
 
 {
-  "name": "lite-xd",
+  "name": "sachiya-md",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By sachiya",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lite",
-    "stop": "pm2 stop lite",
-    "restart": "pm2 restart lite"
+    "start": "pm2 start index.js --deep-monitoring --attach --name sachiya_md",
+    "stop": "pm2 stop sachiya_md",
+    "restart": "pm2 restart sachiya_md"
   },
   "dependencies": {
        "@whiskeysockets/baileys": "npm:baileys-pro@latest",
